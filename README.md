@@ -25,16 +25,16 @@ Commit message:
 ## Iteration 2
 
 What changed:
--
+- Replaced summing with a loop that compares the values and returns the largest one.
 
 What improved:
--
+- The mixed-value, single-value, and all-negative checks now match the requested largest-value behavior.
 
 What still failed and why:
--
+- The empty-array check fails because the code reads `values[0]` before checking whether the array has any elements. The second prompt did not yet define empty-array behavior.
 
 Commit message:
--
+- Iteration 2: largest value implementation
 
 ---
 
