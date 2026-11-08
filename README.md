@@ -1,4 +1,4 @@
-﻿# Reflection – AI Number Program Lab
+# Reflection – AI Number Program Lab
 
 ## Student Name:
 

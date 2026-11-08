@@ -1,4 +1,4 @@
-﻿public class NumberProgram {
+public class NumberProgram {
 
     public static void main(String[] args) {
         int[] values = {3, 7, 2, 9, 4};
