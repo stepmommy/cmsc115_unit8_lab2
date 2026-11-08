@@ -4,7 +4,7 @@
 
 
 ## GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/stepmommy/cmsc115_unit8_lab2.git
 
 ## Iteration 1
 
